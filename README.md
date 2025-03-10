@@ -16,7 +16,6 @@ SHEMS is an IoT-powered energy management system that optimizes energy consumpti
 - **Dashboard**: React.js / Flask (Optional)  
 
 ## 📷 Outcomes  
-🔹 *Add system architecture, graphs, or UI screenshots here*  
 
 ![Outcomes of the Project](https://raw.githubusercontent.com/Anshuzz/Smart-Home-Energy-Management-System/main/Outcomes_of_the_Project.jpg)
 
