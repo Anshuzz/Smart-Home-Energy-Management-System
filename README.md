@@ -15,11 +15,9 @@ SHEMS is an IoT-powered energy management system that optimizes energy consumpti
 - **Cloud & Connectivity**: Wi-Fi, Zigbee  
 - **Dashboard**: React.js / Flask (Optional)  
 
-## 📷 Screenshots  
+## 📷 Outcomes  
 🔹 *Add system architecture, graphs, or UI screenshots here*  
+![Uploading WhatsApp Image 2025-03-10 at 15.21.29_969707cf.jpg…]()
 
-## 🔧 Setup Instructions  
-1. Clone this repository:  
-   ```sh
-   git clone https://github.com/Anshuzz/SHEMS.git
-   cd SHEMS
+
+
